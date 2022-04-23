@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/yvonne-portfolio/static/css/main.f0badc86.css",
-    "main.js": "/yvonne-portfolio/static/js/main.34cf3f8c.js",
+    "main.js": "/yvonne-portfolio/static/js/main.af2463b5.js",
     "index.html": "/yvonne-portfolio/index.html",
     "main.f0badc86.css.map": "/yvonne-portfolio/static/css/main.f0badc86.css.map",
-    "main.34cf3f8c.js.map": "/yvonne-portfolio/static/js/main.34cf3f8c.js.map"
+    "main.af2463b5.js.map": "/yvonne-portfolio/static/js/main.af2463b5.js.map"
   },
   "entrypoints": [
     "static/css/main.f0badc86.css",
-    "static/js/main.34cf3f8c.js"
+    "static/js/main.af2463b5.js"
   ]
 }
